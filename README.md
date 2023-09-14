@@ -6,7 +6,16 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar
+I am a PHP and Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar
+
+<div id="badges">
+  <div>
+    Contact with me 
+    <a href="https://t.me/rikkivesk">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a> 
+  </div>
+</div>
 ---
 
 🖥 WEB:
@@ -40,11 +49,7 @@ I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 ### 👨‍💻 About Me :
-<div id="badges">
-    <a href="https://t.me/rikkivesk">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-  </div>
+
 <div>
   My freelance work <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <ul>
@@ -61,4 +66,7 @@ I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <li><a href="https://relaxed-gaufre-500c34.netlify.app/">PiperNet</a></li>
   <li><a href="https://curious-praline-4fabff.netlify.app/">Рome page written in flutter</a></li>
 </ul>
+</div>
+<div align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=KerilDoter&style=flat-square&color=blue" alt=""/>
 </div>
