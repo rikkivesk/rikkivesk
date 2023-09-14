@@ -6,7 +6,8 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a PHP and Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&repeat=false&width=435&lines=I+am+a+PHP+and+Flutter+developer)](https://git.io/typing-svg)
+
 
 <div id="badges">
   <div>
@@ -48,7 +49,7 @@ I am a PHP and Flutter developer <img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 ---
-### 👨‍💻 About Me :
+### 👨‍💻 Projects :
 
 <div>
   My freelance work <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -65,6 +66,7 @@ I am a PHP and Flutter developer <img src="https://media.giphy.com/media/WUlplcM
   <li><a style="display=block" href="https://quiet-longma-733094.netlify.app/">AliSayed</a></li>
   <li><a href="https://relaxed-gaufre-500c34.netlify.app/">PiperNet</a></li>
   <li><a href="https://curious-praline-4fabff.netlify.app/">Рome page written in flutter</a></li>
+  <li><a href="https://github.com/rikkivesk/kubsau_yourProductiv">Our joint university project with <a href="https://github.com/KerilDoter"</a>KerilDoter</a> </a></li>
 </ul>
 </div>
 <div align="right"> 
