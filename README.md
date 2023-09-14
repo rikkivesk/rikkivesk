@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&repeat=false&width=435&lines=I+am+a+PHP+and+Flutter+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+am+a+PHP+and+Flutter+developer)](https://git.io/typing-svg)
 
 
 <div id="badges">
