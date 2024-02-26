@@ -67,7 +67,6 @@
 <ul>
   <li><a style="display=block" href="https://quiet-longma-733094.netlify.app/">AliSayed</a></li>
   <li><a href="https://relaxed-gaufre-500c34.netlify.app/">PiperNet</a></li>
-  <li><a href="https://curious-praline-4fabff.netlify.app/">Рome page written in flutter</a></li>
   <li><a href="https://github.com/rikkivesk/kubsau_yourProductiv">Our joint university project with <a href="https://github.com/KerilDoter"</a>KerilDoter</a> </a></li>
 </ul>
 </div>
