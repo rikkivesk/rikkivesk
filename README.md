@@ -51,6 +51,9 @@
     <li>
       Сайт на решении RANX <a href="https://monolytics.ru/">monolytics.ru</a>
     </li>
+    <li>
+      Тестовое задание на позицию Middle PHP-разработчик <a href="https://github.com/rikkivesk/1c-bitrix-restapi-module">REST API Модуль</a>
+    </li>
   </ul>
 </div>
 <div>
