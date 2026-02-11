@@ -55,10 +55,10 @@
       Тестовое задание на позицию Middle PHP-разработчик <a href="https://github.com/rikkivesk/1c-bitrix-restapi-module">REST API Модуль</a>
     </li>
     <li>
-      Верстка и интеграция на компоненты главной страницы <a href="https://inter-soft.ru/">inter-soft.ru</a>
+      Верстка и натяжка на компоненты главной страницы <a href="https://inter-soft.ru/">inter-soft.ru</a>
     </li>
     <li>
-      Запускал онлайн-магазин <a href="https://ikbeauty.ru/">https://ikbeauty.ru/</a>
+      Запускал онлайн-магазин <a href="https://ikbeauty.ru/">ikbeauty.ru</a>
     </li>
   </ul>
 </div>
