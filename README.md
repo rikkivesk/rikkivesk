@@ -47,6 +47,8 @@
   <ul>
     <li>
       Онлайн-магазин на решении Intec <a href="https://12ka.ru/">12ka.ru</a>
+    </li>
+    <li>
       Сайт на решении RANX <a href="[https://12ka.ru/](https://monolytics.ru/)">monolytics.ru</a>
     </li>
   </ul>
